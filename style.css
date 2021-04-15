@@ -33,6 +33,7 @@ p {
   width: 200px;
   height: 200px;
   border: black solid 0.5px;
+  cursor: pointer;
 }
 
 .countBtn2 {
