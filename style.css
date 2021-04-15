@@ -1,0 +1,43 @@
+.countNum{
+  display: grid;
+  place-items: center;
+}
+
+
+h1{
+  display: grid;
+  place-items: center;
+}
+
+
+.countBtnDiv{
+  display: grid;
+  place-items: center;
+}
+
+.resetBtnDiv{
+  display: grid;
+  place-items: center;
+}
+
+p {
+  margin: 0;
+  font-size: 50px
+}
+
+.countBtn1 {
+  margin: 0 0 100px 0;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: black solid 0.5px;
+}
+
+.countBtn2 {
+  font-weight: bold;
+  font-size: 20px;
+  width:200px;
+  height:50px ;
+}
